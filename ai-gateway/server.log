@@ -1,0 +1,16 @@
+nohup: ignoring input
+peringatan: provider "claude" dilewati (tidak ada API key; isi env ANTHROPIC_API_KEYS)
+2026/11/20 01:47:26 AI gateway aktif di :8080
+nohup: ignoring input
+peringatan: provider "claude" dilewati (tidak ada API key; isi env ANTHROPIC_API_KEYS)
+2026/11/20 01:55:29 AI gateway aktif di :8080
+nohup: ignoring input
+peringatan: provider "claude" dilewati (tidak ada API key; isi env ANTHROPIC_API_KEYS)
+2026/11/20 01:57:16 AI gateway aktif di :8080
+nohup: ignoring input
+peringatan: provider "claude" dilewati (tidak ada API key; isi env ANTHROPIC_API_KEYS)
+2026/11/20 01:58:12 AI gateway aktif di :8080
+peringatan: provider "claude" dilewati (tidak ada API key; isi env ANTHROPIC_API_KEYS)
+2026/11/20 01:58:34 AI gateway aktif di :8080
+peringatan: provider "claude" dilewati (tidak ada API key; isi env ANTHROPIC_API_KEYS)
+2026/11/20 01:59:29 AI gateway aktif di :8080
